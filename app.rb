@@ -12,5 +12,7 @@ end
 get "/favorite-food" do
   "My favorite-food is pizza"
 end
-
+ 
+ get"dislikes and likes" do
+   "I dislike raisins and like icecream"
 end
