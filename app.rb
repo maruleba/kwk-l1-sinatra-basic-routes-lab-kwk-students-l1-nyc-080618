@@ -6,7 +6,7 @@ class App < Sinatra::Base
   "Hello my name is Fola!"
 end 
 get "/hometown" do
-  "My hometown is The Bronx"
+  "I am from The Bronx"
 end
 
 get "/favorite-food" do
